@@ -4,4 +4,4 @@ Calculadora criada em Python (console), com operações básicas, estrutura de c
 
 Futuras Atualizações
 ---------------------
-Adicionar estutura de repetição permitindo que o usuário execute mais de uma operação por Run!
+Adicionar estrutura de repetição permitindo que o usuário execute mais de uma operação por Run!
